@@ -1,2 +1,1 @@
-# PeterHovmandLLC
-Peter S. Hovmand LLC Consulting
+# Peter S. Hovmand, LLC
